@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Linkedin https://www.linkedin.com/in/moueza/
 <!--
 **moueza/moueza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
