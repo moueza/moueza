@@ -1,5 +1,13 @@
 ### Hi there 👋
-Linkedin https://www.linkedin.com/in/moueza/
+
+- ⚡ Fun fact: ...	
+- 
+- 
+- <br/>
+ <p align="center">Come check my <a href="https://www.linkedin.com/in/moueza/">Linkedin</a> !</p>
+ 
+
+ 
 <!--
 **moueza/moueza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
